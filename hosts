@@ -3,10 +3,12 @@
 # This hosts file is amy personal list of sites to block
 #
 # Date: 03/31/2025
-# Number of unique domains: 1
+# Number of unique domains: 3
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/LloydAlbin/adlist_popups/master/hosts
 #
 # ===============================================================
 
 0.0.0.0 crptm.livejasmin.com
+0.0.0.0 stripchat.com
+0.0.0.0 honey-comics.com
